@@ -5,7 +5,5 @@ def reverse_each_word(string)
 end
 
 
-# Test data:
-test_str = "Hello there and how are you?"
-# Test call:
-reverse_each_word(test_str)
+# Test data: test_str = "Hello there and how are you?"
+# Test call: reverse_each_word(test_str)
